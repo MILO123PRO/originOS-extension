@@ -1,4 +1,4 @@
-# originOS-extension
+# originOS Extension
 OriginOS Utility Extension
 
 # Current Utilities
